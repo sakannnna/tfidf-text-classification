@@ -1,0 +1,8 @@
+# 固定已安装、已运行实验的直接依赖；尤其逐轮钩子依赖 sklearn 私有接口。
+numpy==2.4.0
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.9.1
+joblib==1.6.0
+matplotlib==3.10.8
+threadpoolctl==3.7.0

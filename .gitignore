@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+/data/*
+!/data/README.md
+/results/
+*.joblib
+*.pkl
+*.npz
+*.npy
+*.pdf
+*.zip
+*.rar
+.DS_Store

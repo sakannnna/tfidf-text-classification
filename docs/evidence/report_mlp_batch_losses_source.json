@@ -1,0 +1,27 @@
+{
+  "sources": [
+    {
+      "source": "data-Project1\\data-Project1\\results\\experiments\\mlp_batch_trace_20261011_134303_790089\\batch_metrics.csv",
+      "copy": "mlp_batch_metrics.csv",
+      "sha256": "6b00e2fbf31195052489092d91a96d635a84464190e373d97bfc2dd62a6b5afb"
+    },
+    {
+      "source": "data-Project1\\data-Project1\\results\\experiments\\mlp_batch_trace_20261011_134303_790089\\epoch_metrics.csv",
+      "copy": "mlp_batch_epoch_metrics.csv",
+      "sha256": "520cbebc7b46c1cd0abc3ca91fa45930a5d6be387616a3fd26e256cfc08704a8"
+    },
+    {
+      "source": "data-Project1\\data-Project1\\results\\experiments\\mlp_batch_trace_20261011_134303_790089\\batch_loss_curves.png",
+      "copy": "mlp_batch_loss_curves.png",
+      "sha256": "f13c8b848a5d28a31e059714e6c9bc30dacb17a8fe99cde23463954f9e2f345f"
+    }
+  ],
+  "batch_count": 2010,
+  "epochs": 67,
+  "smoothing": false,
+  "path_simplify": false,
+  "batch_definition": "Original sklearn mini-batch mean cross-entropy plus L2; pre-update weights; no smoothing or resampling. Last batch may be smaller.",
+  "baseline_loss_curve_matches": true,
+  "baseline_predictions_match": true,
+  "weighted_means_match_epoch_objective": true
+}

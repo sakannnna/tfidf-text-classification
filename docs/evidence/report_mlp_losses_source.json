@@ -1,0 +1,13 @@
+{
+  "source": "data-Project1\\data-Project1\\results\\experiments\\mlp_epoch_trace_20260921_204806_748261\\epoch_metrics.csv",
+  "source_sha256": "ad9209329d6142f85c7761c07bac5b4d4432b84d499ca48a2c13ab4833fb3f50",
+  "rows": 67,
+  "late_epochs": [
+    14,
+    67
+  ],
+  "smoothing": false,
+  "definition": "epoch-end train/validation sklearn log_loss, no L2",
+  "best_epoch": 67,
+  "best_validation_ce": 0.1964424054593988
+}
